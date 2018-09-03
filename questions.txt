@@ -1,0 +1,12 @@
+what is codeing?
+why is include used ?
+whats the meaning of studio.h ?
+why is the hastag used at the starting ?
+whats the meaning of main?
+why r there brackets "()" like this with nothing in it?
+what is printf ??
+y have they used "{" with nothing in front of it?
+what is "int main"?
+why is "0" used tith "return"?
+what is flower brackts? 
+what is <stdio.h> ?
